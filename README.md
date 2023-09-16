@@ -1,4 +1,3 @@
-![profile](https://user-images.githubusercontent.com/98827339/151990911-d06f0f80-a443-4610-bc60-274de114a01e.jpeg)
 
 - 👋 Hi, I’m Arslan!
 - ✨ Favorites Tech: Javascript, Typescript, React, Vue, Blockchain, Web 3.0
